@@ -1,4 +1,7 @@
-### CPP (C++) Solutions
-|Question|    Code    |     References    |
-|----------|:-------------:|------:|
-|[Two Sum](https://leetcode.com/problems/two-sum/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Two-Sum.cpp)|-|
+### CPP (C++) Section
+|Difficulty Level|    Total Count    |
+|----------|:-------------:|
+|[Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Easy)|2|
+|[Medium](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Medium)|0|
+|[Hard](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Hard)|0|
+
