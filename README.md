@@ -13,10 +13,10 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
 As I've mentioned above I am currently pursuing my bachelor's in CSE. Apart from that, I won the [WWDC](https://developer.apple.com/wwdc) and the [Layers](https://layers.is/) Scholarship in 2019. I make iOS apps with my recent app being Neon: Capture, Edit, Share. It's a gorgeous color and gradient picker app that you can find [here](https://tiny.cc/neontheapp)
 
 ### Social Media 
-* ### [Twitter](https://twitter.com/swapnanildhol)
-* ### [LinkedIn](https://linkedin.com/in/swapnanildhol)
-* ### [App Store Developer Profile](https://apps.apple.com/us/developer/swapnanil-dhol/id1448345447)
-* ### [LeetCode](https://leetcode.com/swapnanildhol/)
+* #### [Twitter](https://twitter.com/swapnanildhol)
+* #### [LinkedIn](https://linkedin.com/in/swapnanildhol)
+* #### [App Store Developer Profile](https://apps.apple.com/us/developer/swapnanil-dhol/id1448345447)
+* #### [LeetCode](https://leetcode.com/swapnanildhol/)
 
 
 ## Contributing
