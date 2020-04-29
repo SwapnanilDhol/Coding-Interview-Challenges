@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    var stack: [Int] = []
+    private var stack: [Int] = []
     func inorderTraversal(_ root: TreeNode?) -> [Int] {
         stack.removeAll()
         if(root == nil) {
@@ -25,7 +25,7 @@ class Solution {
         
     }
     
-    fileprivate func checker(_ root: TreeNode?) {
+    private func checker(_ root: TreeNode?) {
         
         if (root?.left != nil) {
             checker(root?.left)    
