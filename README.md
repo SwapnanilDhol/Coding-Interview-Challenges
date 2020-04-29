@@ -11,17 +11,17 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
 ## Table of Content
 ###### Select any of the links to view all the questions available in that category in that language
 * C++
-  - [Easy]()
-  - [Medium]()
-  - [Hard]()
+  - [Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Easy)
+  - [Medium](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Medium)
+  - [Hard](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Hard)
 * Python
-  - [Easy]()
-  - [Medium]()
-  - [Hard]()
+  - [Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Python/Easy)
+  - [Medium](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Python/Medium)
+  - [Hard](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Python/Hard)
 * Swift
-  - [Easy]()
-  - [Medium]()
-  - [Hard]()
+  - [Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Swift/Easy)
+  - [Medium](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Swift/Medium)
+  - [Hard](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Swift/Hard)
 ---
 ### My top three questions. 
 ###### This section will be updated because I love being unpredictable.
