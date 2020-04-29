@@ -1,6 +1,6 @@
 ### Swift Section
-| Tables   |      Are      |  Cool |
+| Question   | Code |  References |
 |----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+|a|  [left-aligned]() | $1600 |
+|b|    centered   |   $12 |
+|c| right-aligned |    $1 |
