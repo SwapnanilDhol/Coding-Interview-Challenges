@@ -23,20 +23,6 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
   - [Medium](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Swift/Medium)
   - [Hard](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/Swift/Hard)
 ---
-### My top three questions. 
-###### This section will be updated because I love being unpredictable.
-* #### [Two Sum Problem](https://leetcode.com/problems/two-sum/)
-  - [C++]()
-  - [Python]()
-  - [Swift]()
-* #### [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-  - [C++]()
-  - [Python]()
-  - [Swift]()
-* #### [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-  - [C++]()
-  - [Python]()
-  - [Swift]()
 ## About Me
 
 As I've mentioned above I am currently pursuing my bachelor's in CSE. Apart from that, I won the [WWDC](https://developer.apple.com/wwdc) and the [Layers](https://layers.is/) Scholarship in 2019. I make iOS apps with my recent app being Neon: Capture, Edit, Share. It's a gorgeous color and gradient picker app that you can find [here](https://tiny.cc/neontheapp)
