@@ -1,3 +1,3 @@
-# Swift Language Medium Problems Solutions
+# Swift Language Hard Problems Solutions
 |Question|    Code    |     References    |
 |----------|:-------------:|------:|
