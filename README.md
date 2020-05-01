@@ -10,9 +10,9 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
 
 ## Table of Content
 ### Recent: Leetcode May Challenge
-* Week 1: May 1st - May 7th 
+#### Week 1: May 1st - May 7th 
   - [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/)
-   - [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/First-Bad-Version.cpp), [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/First-Bad-Version.py), [Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/First-Bad-Version.swift)
+    - [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/First-Bad-Version.cpp), [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/First-Bad-Version.py), [Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/First-Bad-Version.swift)
  ----
 * C++
   - [Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Easy)
