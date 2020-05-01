@@ -7,3 +7,4 @@
 |[Remove Element](https://leetcode.com/problems/remove-element/)|[Python Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/Remove-Element.py)|Leetcode||
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Python Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/Reverse-Integer.py)|Leetcode||
 |[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/First-Bad-Version.py)|Leetcode May 1st week challenge||
+|[Same Tree](https://leetcode.com/problems/same-tree/)|[Python Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/Same-Tree.py)|Leetcode||
