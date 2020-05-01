@@ -6,7 +6,7 @@ The repo can be found [here](https://github.com/rudrankriyam/LeetCode-in-Swift)
 
 ## What's the purpose of this repository?
 
-I'm currently in my Sophomore year (about to enter my Junior year) in university pursuing my bachelor's in Computer Science and Engineering and I've started to prepare for my Internship interviews with the hopes of landing an Internship with one of the big tech companies. This repo is just a place where I put up my solutions for reference purposes and so I thought it might be nice to make it a place where everyone can refer to. 
+I'm currently in my Sophomore year (about to enter my Junior year) in university pursuing my bachelor's in Computer Science and Engineering and I've started to prepare for my Internship interviews with the hopes of landing an Internship with one of the big tech companies. This repo is just a place where I put up my solutions for reference purposes and so I thought it might be nice to make it a place which everyone can refer to. 
 
 ## Table of Content
 ### Recent: Leetcode May Challenge
