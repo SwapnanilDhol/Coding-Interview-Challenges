@@ -1,6 +1,6 @@
 # Coding Interview Challenges
 
-This repo contains coding interview questions written in languages that I am most comfortable with such as C++, Python3,and Swift.
+This repo contains coding interview questions written in languages that I am most comfortable with such as C++, Python3, and Swift.
 This repo is 100% inspired by [Rudrank Riyam](https://github.com/rudrankriyam)'s exceptional resource of Leetcode solutions written in Swift.
 The repo can be found [here](https://github.com/rudrankriyam/LeetCode-in-Swift)
 
