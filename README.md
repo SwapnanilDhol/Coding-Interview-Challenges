@@ -14,7 +14,6 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
 | Question   |      CPP      | Python |Swift|
 |----------|:-------------:|:------:|:------:|
 | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/First-Bad-Version.cpp)| [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/First-Bad-Version.py) |[Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/First-Bad-Version.swift)|
-
 | [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/Jewels-And-Stones.cpp)| [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/Jewels-And-Stones.py) |[Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Jewels-And-Stones.swift)|
  ----
 * C++
