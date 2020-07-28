@@ -31,7 +31,10 @@ I'm currently in my Sophomore year (about to enter my Junior year) in university
 ---
 ## About Me
 
-As I've mentioned above I am currently pursuing my bachelor's in CSE. Apart from that, I won the [WWDC](https://developer.apple.com/wwdc) and the [Layers](https://layers.is/) Scholarship in 2019. I make iOS apps with my recent app being Neon: Capture, Edit, Share. It's a gorgeous color and gradient picker app that you can find [here](https://tiny.cc/neontheapp)
+Hello! I am Swapnanil Dhol: A CS&E Junior in India, WWDC 2019 Scholar, WWDC 2020 Swift Student Challenge Winner. I am also a GSoC 2020 student working with VLC (VideoLAN) on their iOS project making the app more modern with a codebase rewrite, removal of third party, old, not maintained dependencies and integrating new features over my 3 month summer contract.
+I also have a strong passion to teach and share knowledge and try to organize coding camps as often as I can. I also upload Swift and SwiftUI tutorials on my [Youtube](https://youtube.com/tnqvd) channel where I explain in detail and clarity about the various aspects of the language and use that information to build clean apps.
+
+You can learn more about me over on my website at [Swapnanil Dhol](https://swapnanildhol.github.io).
 
 ### Social Media 
 * #### [Twitter](https://twitter.com/swapnanildhol)
