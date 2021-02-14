@@ -9,4 +9,5 @@
 |[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Jewels-And-Stones.cpp)|Leetcode May 1st Week Challenge||
 |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Ransome-Note.cp)|Leetcode May 1st Week Challenge||
 |[Same Tree](https://leetcode.com/problems/same-tree/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/Same-Tree.cpp)|Leetcode||
+|[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[CPP Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/Determine-if-String-Halves-Are-Alike.cpp)|Leetcode||
 
