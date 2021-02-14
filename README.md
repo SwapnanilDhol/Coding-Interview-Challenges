@@ -9,12 +9,7 @@ The repo can be found [here](https://github.com/rudrankriyam/LeetCode-in-Swift)
 I'm currently in my Sophomore year (about to enter my Junior year) in university pursuing my bachelor's in Computer Science and Engineering and I've started to prepare for my Internship interviews with the hopes of landing an Internship with one of the big tech companies. This repo is just a place where I put up my solutions for reference purposes and so I thought it might be nice to make it a place which everyone can refer to. 
 
 ## Table of Content
-### Recent: Leetcode May Challenge
-#### Week 1: May 1st - May 7th 
-| Question   |      CPP      | Python |Swift|
-|----------|:-------------:|:------:|:------:|
-| [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) | [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/First-Bad-Version.cpp)| [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/First-Bad-Version.py) |[Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/First-Bad-Version.swift)|
-| [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [C++ Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/CPP/Easy/Jewels-And-Stones.cpp)| [Python Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Python/Easy/Jewels-And-Stones.py) |[Swift Solution](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Jewels-And-Stones.swift)|
+
  ----
 * C++
   - [Easy](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/tree/master/CPP/Easy)
