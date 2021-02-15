@@ -8,5 +8,6 @@
 |[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Ransome-Note.swift)|Leetcode May 1st Week Challenge||
 |[Same Tree](https://leetcode.com/problems/same-tree/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Same-Tree.swift)|Leetcode||
 |[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Determine-if-String-Halves-Are-Alike.swift)|Leetcode||
+|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Reverse-Integer.swift)|Leetcode||
 
 ---
