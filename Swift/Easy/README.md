@@ -10,5 +10,6 @@
 |[Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Determine-if-String-Halves-Are-Alike.swift)|Leetcode||
 |[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Reverse-Integer.swift)|Leetcode||
 |[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Swift Code](https://github.com/SwapnanilDhol/Coding-Interview-Challenges/blob/master/Swift/Easy/Best-Time-to-Buy-and-Sell-Stock-II.swift)|Leetcode||
+|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Swift Code](Swift\Easy\Find-n-unique-integers-sum-up-to-zero.swift)|Leetcode||
 
 ---
