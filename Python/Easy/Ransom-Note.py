@@ -3,7 +3,6 @@ class Solution:
         if len(ransomNote) > len(magazine):
             return False 
         magazineDict = {}
-        
         for char in magazine:
             if char in magazineDict:
                 magazineDict[char] += 1
